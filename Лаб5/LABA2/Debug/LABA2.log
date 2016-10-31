@@ -1,0 +1,3 @@
+﻿  interface.cpp
+d:\лабы.с++.3сем\лаб\лаб5\laba2\classes.h(59): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  LABA2.vcxproj -> D:\ЛАБЫ.С++.3СЕМ\Лаб\Лаб5\Debug\LABA2.exe
